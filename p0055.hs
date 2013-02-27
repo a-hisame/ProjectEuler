@@ -1,3 +1,4 @@
+-- http://projecteuler.net/problem=55
 import Control.Applicative
 
 -- 解答
